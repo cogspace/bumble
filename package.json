@@ -6,6 +6,11 @@
   "dependencies": {
     "easy-zip": "~0.0.4"
   },
+  "bugs": "http://github.com/cogspace/bumble/issues",
+  "repository": {
+      "type": "git",
+      "url": "http://github.com/cogspace/bumble.git"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
