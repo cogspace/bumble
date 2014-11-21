@@ -1,0 +1,15 @@
+{
+  "name": "bumble",
+  "version": "0.1.0",
+  "description": "Glendale Beeline GTFS feed generator (creates static feed ZIP file from NextBus JSON API)",
+  "main": "index.js",
+  "dependencies": {
+    "easy-zip": "~0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Molnar",
+  "license": "BSD-2-Clause"
+}
